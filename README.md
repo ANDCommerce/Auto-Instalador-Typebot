@@ -1,5 +1,3 @@
-<img src="https://oriondesign.art.br/wp-content/uploads/2023/08/Thumb-Typebot-copiar-4.png">
-
 # Auto Instalador do Typebot
 
 Este auto instalador foi testado usando uma VPS vazia da Contabo (4vCores + 8Gb Ram) com **Ubunto 20.04**
@@ -43,7 +41,7 @@ Antes de instalar, é de extrema importancia que você crie 3 registros no DNS, 
 
 1- Copie o seguinte comando e cole em seu terminal:
 ```
-sudo apt install -y git && git clone https://github.com/oriondesign2015/AutoInstaladorTypebot.git && cd AutoInstaladorTypebot && chmod +x typebot.sh && ./typebot.sh
+sudo apt install -y git && git clone https://github.com/ANDCommerce/Auto-Instalador-Typebot.git && cd Auto-Instalador-Typebot && chmod +x typebot.sh && ./typebot.sh
 ```
 
 Ao executar esse código, ele pedirá para você fornecer as seguintes informações:
